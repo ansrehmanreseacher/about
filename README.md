@@ -8,7 +8,7 @@
 
 Hi there! I'm **Ans Rehman**, a hands-on **Cloud & Security Technologist** passionate about building scalable, secure, and efficient infrastructures. I specialize in **AWS**, **Azure**, and **IBM Cloud**, helping startups and businesses architect robust cloud systems and optimize cost and performance.
 
-I thrive in roles where I can blend security, infrastructure, and DevOps to solve complex problems—whether it's building a SaaS backend, modernizing cloud setups, or mentoring the next generation of tech professionals.
+I thrive in roles where I can blend security, infrastructure, and DevOps to solve complex problems whether it's building a SaaS backend, modernizing cloud setups, or mentoring the next generation of tech professionals.
 
 ---
 
