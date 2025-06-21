@@ -59,7 +59,7 @@ I thrive in roles where I can blend security, infrastructure, and DevOps to solv
 
 - 🟦 AWS Activate & 🟩 Azure Founders Hub Member  
 - 🔒 IBM Cybersecurity Analyst Certificate Holder  
-- 🚀 Secured over **$25,000** in startup cloud credits  
+- 🚀 Secured over **$50,000** in startup cloud credits  
 - 📢 Mentored students in freelancing, web dev, and cloud  
 - 🇵🇰 Pioneered **WhatsApp Cloud API SaaS** in Pakistan
 
