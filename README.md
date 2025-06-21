@@ -44,7 +44,7 @@ I thrive in roles where I can blend security, infrastructure, and DevOps to solv
 - Built DevOps workflows to minimize downtime and optimize delivery
 
 ### 🌐 **Cloud & Infrastructure Consultant – Freelance** (Oct 2024 - Present)
-- Helped startups secure **$25,000+** in AWS & Azure credits
+- Helped startups secure **$50,000+** in AWS & Azure credits
 - Led **cloud migrations**, **cost optimizations**, and **infrastructure modernization**
 - Designed secure Linux-based hosting environments on EC2/VPS
 
