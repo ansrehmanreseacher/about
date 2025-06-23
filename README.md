@@ -1,6 +1,6 @@
 # 👨‍💻 Ans Rehman — Cloud & Security Technologist
 
-🌍 Hasilpur, Pakistan &nbsp;|&nbsp; 📧 [ansrehman@duck.com](mailto:ansrehman@duck.com) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ansrehmanreseacher)
+🌍 Hasilpur, Pakistan &nbsp;|&nbsp; 📧 [contact@ansrehman.pk](mailto:contact@ansrehman.pk) &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/ansrehmanreseacher)
 
 ---
 
@@ -94,4 +94,4 @@ I thrive in roles where I can blend security, infrastructure, and DevOps to solv
 
 ---
 
-_**📬 Contact me:**_ [ansrehman@duck.com](mailto:ansrehman@duck.com)
+_**📬 Contact me:**_ [contact@ansrehman.pk](mailto:contact@ansrehman.pk)
